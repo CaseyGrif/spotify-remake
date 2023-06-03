@@ -1,21 +1,17 @@
- * {
-    border: 2px solid rgb(255, 0, 0);
-    font-family: sans-serif;
-}
-
-#sidebar {
-    padding: 0;
-    background-color: black;
-    width: 190px;
-    height: 1920px;
+* {
+    border: 2px solid red;
 }
 
 .logo {
-    color: white;
-    text-indent: 30px;
+    height: 500px;
+    width: 1080px;
 }
 
-.select {
-    background-color: black;
-    color: white;
+.logo-pic {
+    text-align: center;
+    
+}
+
+body {
+    background-image: linear-gradient(to bottom, rgb(112, 57, 148), rgb(230, 124, 150));
 }
