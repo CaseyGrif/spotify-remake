@@ -1,0 +1,13 @@
+* {
+    border: 2px solid red;
+}
+
+#sidebar {
+    background-color: black;
+    
+}
+
+.logo {
+    color: white;
+    background-color: black;
+}
